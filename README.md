@@ -22,5 +22,4 @@ $ poetry shell
 
 ## TODO
 
-- [ ] Add tutorial notebook details
 - [ ] Add contextual bandit algorithms such as LinUCB, LinThompsomSampling, etc.
